@@ -1,0 +1,10 @@
+{
+  "id": "typing-glow-particles",
+  "name": "Typing Glow Particles",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Adds subtle glowing particles around the cursor while you type.",
+  "author": "MOBTIS",
+  "authorUrl": "https://github.com/Troys123923",
+  "isDesktopOnly": false
+}
